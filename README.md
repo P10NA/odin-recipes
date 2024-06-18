@@ -1,1 +1,1 @@
-A basic recipe website that consists of an index page which have links to a few recipes.
+It is a basic recipe website that consists of an index page that has links to a few recipes.
