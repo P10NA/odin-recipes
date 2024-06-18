@@ -1,0 +1,1 @@
+A basic recipe website that consists of an index page which have links to a few recipes.
